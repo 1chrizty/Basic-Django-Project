@@ -16,7 +16,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/1chrizty/hotel-management.git
+    git clone https://github.com/1chrizty/basic-django-project.git
     ```
 
 2. Navigate into the project directory:
